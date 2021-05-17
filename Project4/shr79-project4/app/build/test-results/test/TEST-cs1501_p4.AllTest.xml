@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p4.AllTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-04-11T00:31:09" hostname="Hadis-MBP.fios-router.home" time="0.044">
+  <properties/>
+  <testcase name="Bandwidth Along Path" classname="cs1501_p4.AllTest" time="0.022"/>
+  <testcase name="Copper Only Connected" classname="cs1501_p4.AllTest" time="0.011"/>
+  <testcase name="Lowest Latency Path" classname="cs1501_p4.AllTest" time="0.003"/>
+  <testcase name="Survives Any Two Failed Vertices" classname="cs1501_p4.AllTest" time="0.003"/>
+  <testcase name="Lowest Average Latency Spanning Tree" classname="cs1501_p4.AllTest" time="0.002"/>
+  <system-out><![CDATA[Value :2
+Cable: optical
+Value :3
+Cable: optical
+Value :4
+Cable: copper
+Value :0
+Cable: copper
+Value :1
+Cable: copper
+Value :2
+Cable: optical
+Value :3
+Cable: optical
+Value :4
+Cable: copper
+Value :2
+Cable: optical
+Value :3
+Cable: copper
+Value :0
+Cable: optical
+Value :1
+Cable: optical
+Value :4
+Cable: copper
+Expected 0, result 0
+Expected 4, result 4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

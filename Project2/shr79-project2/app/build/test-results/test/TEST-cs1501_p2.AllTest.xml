@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p2.AllTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-14T11:20:03" hostname="Hadis-MBP.fios-router.home" time="0.05">
+  <properties/>
+  <testcase name="Testing DLB" classname="cs1501_p2.AllTest" time="0.03"/>
+  <testcase name="Testing AutoCompleter" classname="cs1501_p2.AllTest" time="0.013"/>
+  <testcase name="Testing UserHistory" classname="cs1501_p2.AllTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

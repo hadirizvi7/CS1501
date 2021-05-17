@@ -1,0 +1,28 @@
+	Value :2
+Cable: optical
+	Value :3
+Cable: optical
+	Value :4
+Cable: copper
+	Value :0
+Cable: copper
+	Value :1
+Cable: copper
+	Value :2
+Cable: optical
+	Value :3
+Cable: optical
+	Value :4
+Cable: copper
+	Value :2
+Cable: optical
+	Value :3
+Cable: copper
+	Value :0
+Cable: optical
+	Value :1
+Cable: optical
+	Value :4
+Cable: copper
+Expected 0, result 0
+Expected 4, result 4

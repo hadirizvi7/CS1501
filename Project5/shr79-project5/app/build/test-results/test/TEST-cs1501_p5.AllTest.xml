@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p5.AllTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-04-25T23:11:37" hostname="Hadis-MBP.fios-router.home" time="0.046">
+  <properties/>
+  <testcase name="Mult test 4digitA" classname="cs1501_p5.AllTest" time="0.032"/>
+  <testcase name="Mult test 4digitB" classname="cs1501_p5.AllTest" time="0.002"/>
+  <testcase name="XGCD test 4digitA" classname="cs1501_p5.AllTest" time="0.005"/>
+  <testcase name="XGCD test 4digitB" classname="cs1501_p5.AllTest" time="0.002"/>
+  <system-out><![CDATA[x:481
+y:-138
+biGCD:6
+biCheck: 6
+x:-85
+y:342
+biGCD:1
+biCheck: 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
