@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p1.BSTTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-02-18T00:59:34" hostname="Hadis-MBP.fios-router.home" time="0.033">
+  <properties/>
+  <testcase name="height()" classname="cs1501_p1.BSTTest" time="0.02"/>
+  <testcase name="serial()" classname="cs1501_p1.BSTTest" time="0.007"/>
+  <testcase name="submit()" classname="cs1501_p1.BSTTest" time="0.001"/>
+  <testcase name="pc()" classname="cs1501_p1.BSTTest" time="0.001"/>
+  <testcase name="bal()" classname="cs1501_p1.BSTTest" time="0.001"/>
+  <testcase name="del()" classname="cs1501_p1.BSTTest" time="0.0"/>
+  <testcase name="iot()" classname="cs1501_p1.BSTTest" time="0.001"/>
+  <testcase name="rev()" classname="cs1501_p1.BSTTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
